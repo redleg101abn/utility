@@ -1,7 +1,7 @@
 # Nukem
 
 ![MIT License](https://img.shields.io/badge/license-MIT-blue.svg)
-![Build Status](https://img.shields.io/github/actions/workflow/status/username/repo/CI.yml?branch=main)
+![Build Status](https://img.shields.io/github/actions/workflow/status/redleg101abn/utility/blank.yml?branch=main)
 ![Version](https://img.shields.io/badge/version-0.26.0--alpha-blue)
 
 Nukem is a command-line tool designed to delete massive amounts of files and directories efficiently. It supports various options such as dry-run mode, specifying number of threads and buffers, and verbose logging to the console or to a logfile. You can provide multiple paths, and it will process each according to the specified options.
